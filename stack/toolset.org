@@ -7,7 +7,7 @@
 | surfraw  | search         | ddg                          |
 | w3m      | browser        | elinks, links, lynx          |
 | zsh      | shell          | ksh, bash, csh, tcsh, fish   |
-| emacs    | editor         | vi, vim, nano                |
+| emacs    | editor, ide    | vi, vim, nano                |
 | tmux     | session        | screen                       |
 | mpc      | music          | cmus, ncmpcpp                |
 | weechat  | irc            | irssi, ii                    |
@@ -20,7 +20,7 @@
 | task     | todo           |                              |
 | fortune  | quotes         |                              |
 | wtf      | acronyms       |                              |
-| hh       | history        |                              |
+| hstr     | history        |                              |
 | shalarm  | alarm          |                              |
 | fzf      | finder         | findutils, mlocate           |
 | pass     | password       | keepass                      |

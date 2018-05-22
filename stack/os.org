@@ -1,0 +1,8 @@
+* operating systems
+
+| os           | alternatives |
+|--------------+--------------|
+| gentoo       | lfs          |
+| archlinux    | centos       |
+| openbsd      | netbsd       |
+| dragonflybsd | freebsd      |

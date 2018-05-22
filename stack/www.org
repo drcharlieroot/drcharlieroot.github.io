@@ -2,10 +2,10 @@
 
   web applications, platforms, and services (web ui)
 
-| webapp   | function | comment |
-|----------+----------+---------|
-| searx    | search   |         |
-| gravatar | avatar   |         |
-| disroot  | email    |         |
-|          |          |         |
-|          |          |         |
+| webapp    | function | comment |
+|-----------+----------+---------|
+| searx     | search   |         |
+| gravatar  | avatar   |         |
+| disroot   | email    |         |
+| mediawiki | wiki     | php     |
+|           |          |         |

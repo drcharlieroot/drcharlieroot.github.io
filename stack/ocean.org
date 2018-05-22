@@ -8,3 +8,9 @@
 - git
 - systemd
 - grub
+- mediawiki
+- tmux
+- xen
+- linux kernel
+- taskwarrior
+- gentoo
