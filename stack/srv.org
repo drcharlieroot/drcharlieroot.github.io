@@ -1,0 +1,15 @@
+* servers
+
+  chosen servers to know their documentation by heart
+
+| server     | category   | alternatives      |
+|------------+------------+-------------------|
+| postgresql | database   | mariadb, sqlite   |
+| apache     | web        | nginx, lighthttpd |
+| xes        | hypervisor | kvm               |
+|            |            |                   |
+|            |            |                   |
+|            |            |                   |
+|            |            |                   |
+|            |            |                   |
+|            |            |                   |

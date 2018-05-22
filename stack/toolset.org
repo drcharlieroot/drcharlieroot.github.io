@@ -1,0 +1,36 @@
+* tools
+
+  various choice command-line tools to study source code of
+  
+| tool     | category       | alternatives                 |
+|----------+----------------+------------------------------|
+| surfraw  | search         | ddg                          |
+| w3m      | browser        | elinks, links, lynx          |
+| zsh      | shell          | ksh, bash, csh, tcsh, fish   |
+| emacs    | editor         | vi, vim, nano                |
+| tmux     | session        | screen                       |
+| mpc      | music          | cmus, ncmpcpp                |
+| weechat  | irc            | irssi, ii                    |
+| lftp     | ftp            |                              |
+| curl     | download       | wget, httpie                 |
+| dict     | dictionary     |                              |
+| most     | pager          | less, more, w3mman, vimpager |
+| nnn      | file           | mc, vifm, ranger             |
+| buku     | bookmarks      |                              |
+| task     | todo           |                              |
+| fortune  | quotes         |                              |
+| wtf      | acronyms       |                              |
+| hh       | history        |                              |
+| shalarm  | alarm          |                              |
+| fzf      | finder         | findutils, mlocate           |
+| pass     | password       | keepass                      |
+| qemu     | virtualization |                              |
+| ripgrep  | search         | grep                         |
+| rtorrent | torrent        |                              |
+| urlview  |                |                              |
+
+** package managers
+
+| npm | javascript |   |
+| gem | ruby       |   |
+| pip | python     |   |

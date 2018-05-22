@@ -1,0 +1,10 @@
+* ocean
+
+  complete
+
+- emacs
+- zsh
+- gnupg
+- git
+- systemd
+- grub

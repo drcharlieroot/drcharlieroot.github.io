@@ -1,0 +1,11 @@
+| application | alternatives                 | developer | comment |
+|-------------+------------------------------+-----------+---------|
+| dmenu       | rofi                         | suckless  |         |
+| dunst       |                              |           |         |
+| tabbed      |                              | suckless  |         |
+| dwm         | i3                           | suckless  |         |
+| st          | urxvt                        | suckless  |         |
+| surf        | luakit, qutebrowser, firefox | suckless  |         |
+|             |                              |           |         |
+|             |                              |           |         |
+|             |                              |           |         |
