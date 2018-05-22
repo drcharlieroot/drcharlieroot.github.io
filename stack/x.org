@@ -1,3 +1,7 @@
+* xorg
+
+  graphics stack
+
 | application | alternatives                 | developer | comment |
 |-------------+------------------------------+-----------+---------|
 | dmenu       | rofi                         | suckless  |         |
